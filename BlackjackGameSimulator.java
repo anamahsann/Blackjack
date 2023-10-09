@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /*This program will instantiate a game of blackjack
  * BlackjackGameSimulator will ask the user if they want to play 
  * It will evaluate their choice and ask how much they want to bet
- * It will ask to play another game until the user says indicates no
+ * It will ask to play another game until the user indicates no
  * @author Anam Ahsan
  */
 public class BlackjackGameSimulator {
